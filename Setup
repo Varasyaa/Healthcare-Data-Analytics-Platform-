@@ -1,0 +1,3 @@
+npx create-react-app healthcare-dashboard
+cd healthcare-dashboard
+npm install axios react-router-dom chart.js react-chartjs-2
