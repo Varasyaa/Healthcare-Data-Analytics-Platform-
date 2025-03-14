@@ -1,0 +1,9 @@
+Database:
+• Create your PostgreSQL database (healthcare_db) and run schema.sql to set up tables.
+
+Backend:
+• Update your connection strings and secret key in app.py.
+• Run the backend with python app.py (it listens on port 5000).
+
+Frontend:
+• In the React project directory (healthcare-dashboard), run npm start to launch the dashboard.
